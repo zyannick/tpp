@@ -1,0 +1,4 @@
+#ifndef STEREO_MATCH_HPP
+#define STEREO_MATCH_HPP
+
+#endif // STEREO_MATCH_HPP

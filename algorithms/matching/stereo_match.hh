@@ -1,0 +1,4 @@
+#ifndef STEREO_MATCH_HH
+#define STEREO_MATCH_HH
+
+#endif // STEREO_MATCH_HH

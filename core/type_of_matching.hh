@@ -1,0 +1,28 @@
+#pragma once
+
+namespace tpp {
+
+enum class  MATCHING_SIMILARITY_METHOD
+{
+    L1_DISTANCE,
+    L2_DISTANCE,
+    LADES_SIMILARITY
+};
+
+enum class SUB_PIXEL_MATCHING
+{
+    OFF,
+    PHASE_CORRELATION,
+    INTERPOLATION
+};
+
+enum class SUB_PIXEL_MATCHING_PRECISE
+{
+    OFF,
+    PHASE_CORRELATION_FORROSH,
+    PHASE_CORRELATION_NAGASHIMA,
+    INTERPOLATION
+};
+
+
+}
